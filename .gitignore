@@ -1,0 +1,5 @@
+# Rust 编译产物 (忽略所有子目录中的 target 文件夹)
+**/target/
+
+# 忽略 Cargo.lock (可选，对于库项目通常忽略，对于二进制项目可以保留)
+# Cargo.lock
